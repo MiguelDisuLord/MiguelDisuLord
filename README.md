@@ -4,7 +4,7 @@ JAVA was used to create this project, using NETBEANS. A GUI was developed, inclu
 
 Advantages of this GUI:
 - Ease of use.
-- Radio buttons & textfields are cleared/reset for repetetive use.
+- Radio buttons & textfields are cleared/reset for repetitive use.
 - It can be run, closed, then opened again - details of new customers will still be saved underneath the previous ones.
 
 Disadvantages:
